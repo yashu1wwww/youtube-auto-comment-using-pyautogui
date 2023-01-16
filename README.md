@@ -1,4 +1,4 @@
-youtube auto comment using pyautogui
+youtube auto comment using pyautogui in python
 
 Download The Latest Version Of Chrome Driver https://chromedriver.chromium.org/ & Extract The File And Place To These Folder open cmd on that particular folder and enter p.py or double click on p.py or you can rename the file and run
 
