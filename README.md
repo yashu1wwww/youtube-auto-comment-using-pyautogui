@@ -1,21 +1,14 @@
 youtube auto comment using pyautogui in python
 
-Download The Latest Version Of Chrome Driver https://chromedriver.chromium.org/ & Extract The File And Place To These Folder open cmd on that particular folder and enter p.py or double click on p.py or you can rename the file and run
+Download the latest version of Chrome Driver from https://chromedriver.chromium.org/. Extract the file and place it in a folder. Open the command prompt in that particular folder and enter "p.py" or double-click on "p.py". Alternatively, you can rename the file and run it.
 
-when you run p.py file then it ask enter a comment you must enter a text(it ask for a 10 times)
+When you run the "p.py" file, it will ask you to enter a comment. You must enter some text. It will ask for this ten times.
 
-after open youtube and scroll to comment box then it automatically comments the word.....
+After that, open YouTube and scroll to the comment box. The program will automatically comment the word you entered earlier.
 
-👉Note:-
+Note:
 
-👉if your selenium version is in latest version then the code never run
-
-👉open cmd and enter pip uninstall selenium
-
-And enter
-
-pip install selenium==4.2.0
-
+If your Selenium version is the latest, then the code may not run
 and hit enter
 
 and
